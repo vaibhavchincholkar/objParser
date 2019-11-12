@@ -1,17 +1,26 @@
 # objParser
 
-ObjParser reads the wavefront .obj file and .mtl file associated with it.
+ObjParser reads the wavefront .obj file and .mtl file associated with it and returns OpenGL buffers which can then directly used to render object.
 
 # How to add objParser to your Android Studio Project
 
-Go to 
+Go to
+
 File -> new -> New Moudle -> select import .JAR/.AAR package 
+
 Click next
+
 Give the file path 
+
 and click Finish
+
 above steps will include the objParser in your project but its not a dependency yet 
+
 To do that
+
 File -> project Strucutre -> dependencies -> click on App-> click on + -> module dependencies and select objParser-> finish.
+
+
 it will sync gradle build and you are ready to use ObjParser.
 
 # usage
