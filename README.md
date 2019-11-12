@@ -7,7 +7,7 @@ ObjParser reads the wavefront .obj file and .mtl file associated with it and ret
 Go to
 
 File -> new -> New Moudle -> select import .JAR/.AAR package 
-![Image description] https://github.com/vaibhavchincholkar/objParser/blob/master/images/import.png
+![Image description](https://github.com/vaibhavchincholkar/objParser/blob/master/images/import.png)
 Click next
 
 Give the file path 
@@ -19,13 +19,13 @@ above steps will include the objParser in your project but its not a dependency 
 To do that
 
 File -> project Strucutre -> dependencies -> click on App-> click on + -> module dependencies and select objParser-> finish.
-![Image description] https://github.com/vaibhavchincholkar/objParser/blob/master/images/dependency.png
+![Image description](https://github.com/vaibhavchincholkar/objParser/blob/master/images/dependency.png)
 
 Select the ObjParser
-![Image description] https://github.com/vaibhavchincholkar/objParser/blob/master/images/dependency2.png
+![Image description](https://github.com/vaibhavchincholkar/objParser/blob/master/images/dependency2.png)
 
 You should see the ObjParser in Dependencies
-![Image description] https://github.com/vaibhavchincholkar/objParser/blob/master/images/dependency3.png
+![Image description](https://github.com/vaibhavchincholkar/objParser/blob/master/images/dependency3.png)
 
 Click Ok.
 
